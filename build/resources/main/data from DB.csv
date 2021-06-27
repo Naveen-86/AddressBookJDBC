@@ -1,0 +1,10 @@
+id,first_name,last_name,address,city,state,zip,phonenumber,email
+1,"Naveen",Madhaboina,"Naveen's address",Hyderabad,Telangana,500062,"+91 1111111111",naveen21@gmail.com
+2,"Varun Kumar",Matam,"Varun's address",Pune,Maharastra,700826,"+91 2222222222",varun.kumar@gmail.com
+3,Charan,Thrivedi,"Charan's address",Pune,Maharastra,700826,"+91 3333333333",charan.t@gmail.com
+4,Vaasu,Malhothra,"Vaasu's address",Pune,Maharastra,700826,"+91 4444444444",malhothravaasu@gmail.com
+5,Amar,Vandhya,"Amar's address",Hyderabad,Telangana,500062,"+91 5555555555",vamar.52@gmail.com
+6,Gokul,Chat,"Gokul's address",Benguluru,Karnataka,451236,"+91 6666666666",gokulchat.hyd@gmail.com
+7,"Madhavi Devi","Madhavi's address",Mandana,Benguluru,Karnataka,451236,"+91 7777777777",devimadhavi@gmail.com
+8,Deepika,Padukone,"Deepika's address",Hyderabad,Telangana,500062,"+91 8888888888",d.padukone@gmail.com
+9,"Swathi Ramya","Swathi's address",Picchika,Pune,Maharastra,700826,"+91 9999999999",ramyaswathi.picchika@gmail.com

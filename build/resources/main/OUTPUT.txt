@@ -1,0 +1,235 @@
+Driver loaded:  com.mysql.cj.jdbc.Driver
+
+All the data existed in the data base:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+**************************************
+Printing all the data to console:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+1, Naveen, Madhaboina, Naveen's address, Hyderabad, Telangana, 500062, +91 1111111111, naveen21@gmail.com
+2, Varun Kumar, Matam, Varun's address, Pune, Maharastra, 700826, +91 2222222222, varun.kumar@gmail.com
+3, Charan, Thrivedi, Charan's address, Pune, Maharastra, 700826, +91 3333333333, updated_email@gmail.com
+4, Vaasu, Malhothra, Vaasu's address, Pune, Maharastra, 700826, +91 4444444444, malhothravaasu@gmail.com
+5, Amar, Vandhya, Amar's address, Hyderabad, Telangana, 500062, +91 5555555555, vamar.52@gmail.com
+6, Gokul, Chat, Gokul's address, Benguluru, Karnataka, 451236, +91 6666666666, gokulchat.hyd@gmail.com
+7, Madhavi Devi, Madhavi's address, Mandana, Benguluru, Karnataka, 451236, +91 7777777777, devimadhavi@gmail.com
+8, Deepika, Padukone, Deepika's address, Hyderabad, Telangana, 500062, +91 8888888888, d.padukone@gmail.com
+9, Swathi Ramya, Swathi's address, Picchika, Pune, Maharastra, 700826, +91 9999999999, ramyaswathi.picchika@gmail.com
+10, New, Person, new address, new city, new state, 789456, +91 1010101010, new@email.com
+11, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+12, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+13, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+14, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+15, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+16, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+17, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+18, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+19, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+20, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+21, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+22, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+23, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+24, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+25, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+26, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+27, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+28, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+29, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+30, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+31, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+32, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+33, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+34, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+35, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+36, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+37, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+38, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+39, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+40, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+**************************************
+
+After updating existing contact:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+**************************************
+Printing all the data to console:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+1, Kiran Kumar, Matham, Kiran's address, Hyderabad, Telangana, 500062, +91 1111111111, kiran.kumar@gmail.com
+2, Varun Kumar, Matam, Varun's address, Pune, Maharastra, 700826, +91 2222222222, varun.kumar@gmail.com
+3, Charan, Thrivedi, Charan's address, Pune, Maharastra, 700826, +91 3333333333, updated_email@gmail.com
+4, Vaasu, Malhothra, Vaasu's address, Pune, Maharastra, 700826, +91 4444444444, malhothravaasu@gmail.com
+5, Amar, Vandhya, Amar's address, Hyderabad, Telangana, 500062, +91 5555555555, vamar.52@gmail.com
+6, Gokul, Chat, Gokul's address, Benguluru, Karnataka, 451236, +91 6666666666, gokulchat.hyd@gmail.com
+7, Madhavi Devi, Madhavi's address, Mandana, Benguluru, Karnataka, 451236, +91 7777777777, devimadhavi@gmail.com
+8, Deepika, Padukone, Deepika's address, Hyderabad, Telangana, 500062, +91 8888888888, d.padukone@gmail.com
+9, Swathi Ramya, Swathi's address, Picchika, Pune, Maharastra, 700826, +91 9999999999, ramyaswathi.picchika@gmail.com
+10, New, Person, new address, new city, new state, 789456, +91 1010101010, new@email.com
+11, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+12, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+13, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+14, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+15, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+16, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+17, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+18, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+19, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+20, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+21, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+22, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+23, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+24, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+25, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+26, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+27, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+28, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+29, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+30, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+31, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+32, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+33, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+34, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+35, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+36, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+37, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+38, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+39, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+40, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+**************************************
+
+persons added in between 2010-01-01 and 2020-12-31:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+**************************************
+Printing all the data to console:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+3, Charan, Thrivedi, Charan's address, Pune, Maharastra, 700826, +91 3333333333, updated_email@gmail.com
+4, Vaasu, Malhothra, Vaasu's address, Pune, Maharastra, 700826, +91 4444444444, malhothravaasu@gmail.com
+5, Amar, Vandhya, Amar's address, Hyderabad, Telangana, 500062, +91 5555555555, vamar.52@gmail.com
+7, Madhavi Devi, Madhavi's address, Mandana, Benguluru, Karnataka, 451236, +91 7777777777, devimadhavi@gmail.com
+8, Deepika, Padukone, Deepika's address, Hyderabad, Telangana, 500062, +91 8888888888, d.padukone@gmail.com
+9, Swathi Ramya, Swathi's address, Picchika, Pune, Maharastra, 700826, +91 9999999999, ramyaswathi.picchika@gmail.com
+11, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+12, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+13, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+14, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+15, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+16, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+17, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+23, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+29, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+35, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+**************************************
+
+count by state:
+Telangana 3
+
+count by city:
+Pune 4
+
+After inserting single new contact:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+**************************************
+Printing all the data to console:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+1, Kiran Kumar, Matham, Kiran's address, Hyderabad, Telangana, 500062, +91 1111111111, kiran.kumar@gmail.com
+2, Varun Kumar, Matam, Varun's address, Pune, Maharastra, 700826, +91 2222222222, varun.kumar@gmail.com
+3, Charan, Thrivedi, Charan's address, Pune, Maharastra, 700826, +91 3333333333, updated_email@gmail.com
+4, Vaasu, Malhothra, Vaasu's address, Pune, Maharastra, 700826, +91 4444444444, malhothravaasu@gmail.com
+5, Amar, Vandhya, Amar's address, Hyderabad, Telangana, 500062, +91 5555555555, vamar.52@gmail.com
+6, Gokul, Chat, Gokul's address, Benguluru, Karnataka, 451236, +91 6666666666, gokulchat.hyd@gmail.com
+7, Madhavi Devi, Madhavi's address, Mandana, Benguluru, Karnataka, 451236, +91 7777777777, devimadhavi@gmail.com
+8, Deepika, Padukone, Deepika's address, Hyderabad, Telangana, 500062, +91 8888888888, d.padukone@gmail.com
+9, Swathi Ramya, Swathi's address, Picchika, Pune, Maharastra, 700826, +91 9999999999, ramyaswathi.picchika@gmail.com
+10, New, Person, new address, new city, new state, 789456, +91 1010101010, new@email.com
+11, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+12, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+13, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+14, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+15, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+16, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+17, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+18, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+19, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+20, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+21, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+22, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+23, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+24, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+25, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+26, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+27, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+28, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+29, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+30, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+31, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+32, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+33, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+34, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+35, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+36, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+37, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+38, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+39, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+40, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+41, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+**************************************
+
+After inserting set of new contacts:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+**************************************
+Printing all the data to console:
+
+id, first_name, last_name, address, city, state, zip, phonenumber, email
+1, Kiran Kumar, Matham, Kiran's address, Hyderabad, Telangana, 500062, +91 1111111111, kiran.kumar@gmail.com
+2, Varun Kumar, Matam, Varun's address, Pune, Maharastra, 700826, +91 2222222222, varun.kumar@gmail.com
+3, Charan, Thrivedi, Charan's address, Pune, Maharastra, 700826, +91 3333333333, updated_email@gmail.com
+4, Vaasu, Malhothra, Vaasu's address, Pune, Maharastra, 700826, +91 4444444444, malhothravaasu@gmail.com
+5, Amar, Vandhya, Amar's address, Hyderabad, Telangana, 500062, +91 5555555555, vamar.52@gmail.com
+6, Gokul, Chat, Gokul's address, Benguluru, Karnataka, 451236, +91 6666666666, gokulchat.hyd@gmail.com
+7, Madhavi Devi, Madhavi's address, Mandana, Benguluru, Karnataka, 451236, +91 7777777777, devimadhavi@gmail.com
+8, Deepika, Padukone, Deepika's address, Hyderabad, Telangana, 500062, +91 8888888888, d.padukone@gmail.com
+9, Swathi Ramya, Swathi's address, Picchika, Pune, Maharastra, 700826, +91 9999999999, ramyaswathi.picchika@gmail.com
+10, New, Person, new address, new city, new state, 789456, +91 1010101010, new@email.com
+11, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+12, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+13, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+14, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+15, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+16, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+17, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+18, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+19, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+20, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+21, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+22, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+23, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+24, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+25, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+26, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+27, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+28, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+29, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+30, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+31, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+32, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+33, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+34, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+35, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+36, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+37, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+38, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+39, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+40, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+41, New007, Person007, New.P Address, new city, new state, 700000, +66 1478523698, new.p@gmail.com
+42, New001, Person001, 1New.P Address, 1new city, 1new state, 700001, +1 1478523698, 1new.p@gmail.com
+43, New002, Person002, 2New.P Address, 2new city, 2new state, 700002, +2 1478523698, 2new.p@gmail.com
+44, New003, Person003, 3New.P Address, 3new city, 3new state, 700003, +3 1478523698, 3new.p@gmail.com
+45, New004, Person004, 4New.P Address, 4new city, 4new state, 700004, +4 1478523698, 4new.p@gmail.com
+46, New005, Person005, 5New.P Address, 5new city, 5new state, 700005, +5 1478523698, 5new.p@gmail.com
+**************************************
